@@ -20,7 +20,7 @@ Email: Gerardofd1079@gmail.com
 - Python
 - SQL
 - Microsoft SQL Server
-- Tableau
+- [Tableau](https://public.tableau.com/views/COVIDInfectionsDeathsDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Microsoft Excel/LibreOffice Calc
 - Git
 - GitHub
