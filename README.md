@@ -8,8 +8,9 @@ I'm an Aspiring Data Analyst Living in Japan.
 
 I have been playing around with Python for a while and recently realized how fun and interesting data analytics is for me.
 
-### Contact:
+#### Contact:
 Email: Gerardofd1079@gmail.com
+- If you have any questions or suggestions, please feel free to send me an email!
 
 </br>
 
@@ -46,7 +47,3 @@ Email: Gerardofd1079@gmail.com
 
 ## Currently Studying
 - Any relevant material I can get my hands on
-
-</br>
-
-- If you have any questions or suggestions, please feel free to send me an email!
