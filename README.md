@@ -10,7 +10,7 @@ I have been playing around with Python for a while and recently realized how fun
 
 #### Contact:
 Email: Gerardofd1079@gmail.com
-[LinkIn](https://www.linkedin.com/in/gerardo-fernandez/)
+[LinkedIn](https://www.linkedin.com/in/gerardo-fernandez/)
 - If you have any questions or suggestions, please feel free to send me an email!
 
 </br>
