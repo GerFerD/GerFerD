@@ -9,9 +9,9 @@ I'm an Aspiring Data Analyst Living in Japan.
 I have been playing around with Python for a while and recently realized how fun and interesting data analytics is for me.
 
 #### Contact:
-Email: Gerardofd1079@gmail.com
-[LinkedIn](https://www.linkedin.com/in/gerardo-fernandez/)
-- If you have any questions or suggestions, please feel free to send me an email!
+If you have any questions or suggestions, please feel free to send me an email!
+- Email: Gerardofd1079@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gerardo-fernandez/)
 
 </br>
 
