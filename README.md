@@ -6,7 +6,7 @@ Hi there, I'm Gerardo
 I'm an Aspiring Data Analyst Living in Japan.
 </h1>
 
-I have been playing around with Python for a while and recently realized how fun and interesting data analytics is for me.
+I have been playing around with Python for a while and recently realized how fun and interesting data analytics is for me. Please take a look at my portfolio.
 
 #### Contact:
 If you have any questions or suggestions, please feel free to send me an email!
