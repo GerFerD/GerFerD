@@ -47,4 +47,5 @@ If you have any questions or suggestions, please feel free to send me an email!
 - Completing my portfolio/resume and landing my first job as a data analyst!
 
 ## Currently Studying
+- Tableau
 - Any relevant material I can get my hands on
